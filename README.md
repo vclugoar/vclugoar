@@ -15,9 +15,11 @@
 
 🛠 In 2022, I'm planning, executing and delivering a data project for every month of the year. 
 
-<p align="left" width="100%">
-    <img width="70%" src="https://i.imgur.com/0dShHQA.png">
-</p>
+Tentative topics:
+- Q1'22: data projects incorporating text analysis
+- Q2'22: data projects incorporating dynamic user input
+- Q3'22: data projects with relevant business applications
+- Q4'22: data projects about fun topics 
 
 
 <!---
