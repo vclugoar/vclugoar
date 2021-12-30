@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=48&vCenter=true&multiline=true&width=500&height=80&lines=Hello%2C+I'm+Vianny)](https://git.io/typing-svg)
+<img align="center" src="https://i.imgur.com/UBpes1n.gif" width="250" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23000000&size=48&vCenter=true&multiline=true&width=500&height=80&lines=Hello%2C+I'm+Vianny)](https://git.io/typing-svg" width="300" /> 
+
 ## About 
 - 💻 I use raw data and extract meaning out of it 
 - 💪🏽  I work with Python, SQL and visualization tools such as Looker (including LookML), Tableau, and Power BI 
