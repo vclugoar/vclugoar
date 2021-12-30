@@ -6,7 +6,7 @@
 </p>
 
 ## About 
-- 💻 I use raw data and extract meaning out of it 
+- 💻 I extract meaning out of raw data
 - 💪🏽  I work with Python, SQL and visualization tools such as Looker (including LookML), Tableau, and Power BI 
 - 🌸 Currently working on some passion projects that use text analysis techniques 
 - 📫 You can find me on [Twitter](https://twitter.com/vclugo) and [LinkedIn](https://www.linkedin.com/in/viannyl/)
