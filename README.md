@@ -11,7 +11,7 @@
 - 🌸 Currently working on some passion projects that use text analysis techniques to make book recommendations 
 - 📫 You can find me on [Twitter](https://twitter.com/vclugo) and [LinkedIn](https://www.linkedin.com/in/viannyl/)
 
-## 12 months of data: 2022
+## 12 projects in 12 months
 
 🛠 In 2022, I'm planning, executing and delivering a data project for every month of the year. 
 
