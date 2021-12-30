@@ -1,5 +1,9 @@
-<img align="center" src="https://i.imgur.com/UBpes1n.gif" width="250" />
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23000000&size=48&vCenter=true&multiline=true&width=500&height=80&lines=Hello%2C+I'm+Vianny)](https://git.io/typing-svg" width="300" /> 
+<p align="center" width="100%">
+    <img width="20%" src="https://i.imgur.com/UBpes1n.gif">
+</p>
+<p align="center" width="100%">
+    <img width="33%" src="https://readme-typing-svg.herokuapp.com?color=%23000000&size=48&vCenter=true&multiline=true&width=500&height=80&lines=Hello%2C+I'm+Vianny)](https://git.io/typing-svg">
+</p>
 
 ## About 
 - 💻 I use raw data and extract meaning out of it 
