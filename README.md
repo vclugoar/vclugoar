@@ -13,8 +13,11 @@
 
 ## 12 months of data: 2022
 
-- 🛠 In 2022, I'm planning, executing and delivering a data project for every month of the year. 
-- 📚 Topics are going to be chosen on a quarterly basis, Q1'2022 topics TBA.
+🛠 In 2022, I'm planning, executing and delivering a data project for every month of the year. 
+
+<p align="left" width="100%">
+    <img width="70%" src="https://i.imgur.com/0dShHQA.png">
+</p>
 
 
 <!---
