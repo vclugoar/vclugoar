@@ -8,13 +8,13 @@
 ## About 
 - 💻 I extract meaning out of raw data
 - 💪🏽  I work with Python, SQL and visualization tools such as Looker (including LookML), Tableau, and Power BI 
-- 🌸 Currently working on some passion projects that use text analysis techniques 
+- 🌸 Currently working on some passion projects that use text analysis techniques to make book recommendations 
 - 📫 You can find me on [Twitter](https://twitter.com/vclugo) and [LinkedIn](https://www.linkedin.com/in/viannyl/)
 
 ## 12 months of data: 2022
 
 - 🛠 In 2022, I'm planning, executing and delivering a data project for every month of the year. 
-- 📚 Topics are going to be chosen on a quarterly basis, Q1'2022 TBA.
+- 📚 Topics are going to be chosen on a quarterly basis, Q1'2022 topics TBA.
 
 
 <!---
