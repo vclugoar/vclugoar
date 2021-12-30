@@ -2,7 +2,7 @@
 ## About 
 - 💻 I use raw data and extract meaning out of it 
 - 💪🏽  I work with Python, SQL and visualization tools such as Looker (including LookML), Tableau, and Power BI 
-- 🌸 Currently working on some passion projects -- building text analysis apps to recommend books 
+- 🌸 Currently working on some passion projects that use text analysis techniques 
 - 📫 You can find me on [Twitter](https://twitter.com/vclugo) and [LinkedIn](https://www.linkedin.com/in/viannyl/)
 
 ## 12 months of data: 2022
