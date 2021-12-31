@@ -5,11 +5,10 @@
     <img width="30%" src="https://readme-typing-svg.herokuapp.com?color=%23000000&size=48&vCenter=true&multiline=true&width=500&height=80&lines=Hello%2C+I'm+Vianny)](https://git.io/typing-svg">
 </p>
 
-## About 
-- 💻 I extract meaning out of raw data
-- 💪🏽  I work with Python, SQL and visualization tools such as Looker (including LookML), Tableau, and Power BI 
-- ✨ Working on building 12 projects in 12 months (more info below)  
-- 📫 You can find me on [Twitter](https://twitter.com/vclugo) and [LinkedIn](https://www.linkedin.com/in/viannyl/)
+- I extract meaning out of raw data
+- I work with Python, SQL and visualization tools such as Looker (including LookML), Tableau, and Power BI 
+- Working on building 12 projects in 12 months (more info below)  
+- You can find me on [Twitter](https://twitter.com/vclugo) and [LinkedIn](https://www.linkedin.com/in/viannyl/)
 
 ## 12 data projects in 12 months in 2022
 
