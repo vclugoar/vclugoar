@@ -1,10 +1,6 @@
 
 <p align="center" width="100%">
-    <img width="30%" src="https://readme-typing-svg.herokuapp.com?color=%23000000&size=48&vCenter=true&multiline=true&width=500&height=80&lines=Hello%2C+I'm+Vianny)](https://git.io/typing-svg"
-#gh-light-mode-only">
-</p>
-<p align="center" width="100%">
-    <img width="15%" src="https://i.imgur.com/UBpes1n.gif#gh-light-mode-only">
+    <img width="95%" src="https://i.imgur.com/bRI21w6.gif">
 </p>
 
 - I extract meaning out of raw data
