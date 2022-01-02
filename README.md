@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-    <img width="95%" height="255" src="https://i.imgur.com/y5x2Wut.gif">
+    <img width="95%" src="https://i.imgur.com/FLKkzeB.gif">
 </p>
 
 - I extract meaning out of raw data
