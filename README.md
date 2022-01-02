@@ -14,11 +14,10 @@
 
 🛠 In 2022, I'm planning, executing and delivering a data project for every month of the year. 
 
-Tentative topics:
-- Q1'22: data projects incorporating text analysis
-- Q2'22: data projects incorporating dynamic user input
-- Q3'22: data projects with relevant business applications
-- Q4'22: data projects about fun topics 
+Building:
+- 📍 January 2022: a python-based app with SQL tutorials for new SQL learners and beginners
+- Rest of 2022: TBA
+                                                      
 
 
 <!---
